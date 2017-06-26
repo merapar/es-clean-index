@@ -1,6 +1,6 @@
 # es-clean-index
-Small docker for maintaining index of Elasticsearch cluster/node
-Supports ES version 5.x
+Small docker for maintaining index of Elasticsearch cluster/node.
+Supports ES version 5.x.
 
 # Environment variables:
 - INDEX_PREFIX (required): the prefix of the index to clean (e.g. logstash or zipkin)
